@@ -4,7 +4,7 @@ Soy estudiante de **Ingeniería de Sistemas en la Universidad Tecnológica de Pe
 
 Creo firmemente en el aprendizaje basado en proyectos. En este espacio comparto mi evolución, mis experimentos y las herramientas que voy dominando en mi camino como desarrollador.
 
-### 2. No a los certificados de "lecciones pequeñas" 💻 ¿En qué estoy trabajando actualmente?
+###💻 ¿En qué estoy trabajando actualmente?
 - 🚀 Construyendo y desplegando proyectos personales para fortalecer mi lógica de programación.
 - 📚 Profundizando en estructuras de datos, algoritmos y buenas prácticas de desarrollo.
 - 🌐 Complementando mi formación universitaria con certificaciones orientadas a la práctica (freeCodeCamp).
