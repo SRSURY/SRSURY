@@ -16,7 +16,7 @@ Creo firmemente en el aprendizaje basado en proyectos. En este espacio comparto 
 
 ### 📈 Mis Proyectos Recientes
 - 📊 [Gestor de Notas] - Una aplicación de consola en C++ para la gestión de registros académicos.
-
+- 📊 [Gestor de Notas Web] - Una web para la gestión de registros académicos.
 ---
 
 📬 **¿Quieres conectar conmigo?**
