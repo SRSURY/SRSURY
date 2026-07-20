@@ -14,10 +14,13 @@ Creo firmemente en el aprendizaje basado en proyectos. En este espacio comparto 
 - **Control de Versiones:** Git & GitHub
 - **Entornos:** GitHub Codespaces
 
-### 📈 Mis Proyectos Recientes
-- 📊 [Gestor de Notas] - Una aplicación de consola en C++ para la gestión de registros académicos.
-- 📊 [Gestor de Notas Web] - Una web para la gestión de registros académicos.
----
+## 🚀 Proyectos en Desarrollo 
+
+* 💻 **[Gestor de Notas Web](https://github.com/SRSURY/Student-Grade-Web)** - Una web para la gestión de registros académicos.
+
+## 🏆 Proyectos Finalizados
+
+* 🖥️ **[Gestor de Notas](https://github.com/SRSURY/student-grade-manager-cpp)** - Una aplicación de consola desarrollada en C++ para la gestión de registros académicos.
 
 📬 **¿Quieres conectar conmigo?**
 - Conéctate conmigo en [LinkedIn]https://www.linkedin.com/in/julian-moreno-alvarez-745a45295?utm_source=share_via&utm_content=profile&utm_medium=member_android
