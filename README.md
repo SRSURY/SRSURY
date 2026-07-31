@@ -16,10 +16,9 @@ Creo firmemente en el aprendizaje basado en proyectos. En este espacio comparto 
 
 ## 🚀 Proyectos en Desarrollo 
 
-* 💻 **[Gestor de Notas Web](https://github.com/SRSURY/Student-Grade-Web)** - Una web para la gestión de registros académicos.
-
 ## 🏆 Proyectos Finalizados
 
+* 💻 **[Gestor de Notas Web](https://github.com/SRSURY/Student-Grade-Web)** - Una web para calcular promedio.
 * 🖥️ **[Gestor de Notas](https://github.com/SRSURY/student-grade-manager-cpp)** - Una aplicación de consola desarrollada en C++ para la gestión de registros académicos.
 
 📬 **¿Quieres conectar conmigo?**
