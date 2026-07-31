@@ -19,7 +19,6 @@ Creo firmemente en el aprendizaje basado en proyectos. En este espacio comparto 
 ## 🏆 Proyectos Finalizados
 
 * 💻 **[Gestor de Notas Web](https://github.com/SRSURY/Student-Grade-Web)** - Una web para calcular promedio.
-* 🖥️ **[Gestor de Notas](https://github.com/SRSURY/student-grade-manager-cpp)** - Una aplicación de consola desarrollada en C++ para la gestión de registros académicos.
 
 📬 **¿Quieres conectar conmigo?**
 - Conéctate conmigo en [LinkedIn]https://www.linkedin.com/in/julian-moreno-alvarez-745a45295?utm_source=share_via&utm_content=profile&utm_medium=member_android
