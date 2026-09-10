@@ -7,10 +7,10 @@ Creo firmemente en el aprendizaje basado en proyectos. En este espacio comparto 
 ### 💻 ¿En qué estoy trabajando actualmente?
 - 🚀 Construyendo y desplegando proyectos personales para fortalecer mi lógica de programación.
 - 📚 Profundizando en estructuras de datos, algoritmos y buenas prácticas de desarrollo.
-- 🌐 Complementando mi formación universitaria con certificaciones orientadas a la práctica (freeCodeCamp).
+- 🌐 Complementando mi formación universitaria con el cs50x.
 
 ### 🛠️ Tecnologías y Herramientas
-- **Lenguajes:** JavaScript, C++
+- **Lenguajes:** C++
 - **Control de Versiones:** Git & GitHub
 - **Entornos:** GitHub Codespaces
 
