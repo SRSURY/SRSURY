@@ -18,7 +18,7 @@ becoming a developer.
 ---
 
 ### 🛠️ Technologies & Tools
-- **Languages:** C++, Python, JavaScript
+- **Languages:** C/C++, Python, JavaScript
 - **Version Control:** Git & GitHub
 - **Environments:** VS Code, GitHub Codespaces
 
