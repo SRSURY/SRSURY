@@ -1,6 +1,6 @@
 # Hi! I'm Julian 👋
 
-I'm a student of **Systems Engineering at UTP (Technological University of Pereira)** 
+I'm a student of **Computer Science at UTP (Technological University of Pereira)** 
 currently in my third semester. I love software development, logic and algorithms 
 to solve problems and make great solutions through code.
 
